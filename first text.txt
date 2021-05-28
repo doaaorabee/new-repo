@@ -1,0 +1,7 @@
+The pharmacy system contains three active players(active actors)
+And someone helpful with the system (cooperating system)
+
+2.2 Functional Requirements Specification
+
+2.2.1 pharmacist sue case 
+Use case :Medicinal items Diagram
